@@ -1,0 +1,72 @@
+[
+  {
+    "method": "TF-IDF (combined_features)",
+    "query": "Stranger Things",
+    "num_recommendations": 10,
+    "precision_at_k": 1.0,
+    "same_type_ratio": {
+      "TV Show": 10
+    },
+    "query_genres": [
+      "tv sci-fi & fantasy",
+      "tv mysteries",
+      "tv horror"
+    ]
+  },
+  {
+    "method": "TF-IDF (combined_features)",
+    "query": "The Crown",
+    "num_recommendations": 10,
+    "precision_at_k": 1.0,
+    "same_type_ratio": {
+      "TV Show": 10
+    },
+    "query_genres": [
+      "british tv shows",
+      "tv dramas",
+      "international tv shows"
+    ]
+  },
+  {
+    "method": "TF-IDF (combined_features)",
+    "query": "Black Mirror",
+    "num_recommendations": 10,
+    "precision_at_k": 1.0,
+    "same_type_ratio": {
+      "TV Show": 10
+    },
+    "query_genres": [
+      "british tv shows",
+      "tv dramas",
+      "international tv shows"
+    ]
+  },
+  {
+    "method": "TF-IDF (combined_features)",
+    "query": "Narcos",
+    "num_recommendations": 10,
+    "precision_at_k": 1.0,
+    "same_type_ratio": {
+      "TV Show": 10
+    },
+    "query_genres": [
+      "tv action & adventure",
+      "crime tv shows",
+      "tv dramas"
+    ]
+  },
+  {
+    "method": "TF-IDF (combined_features)",
+    "query": "3 Idiots",
+    "num_recommendations": 10,
+    "precision_at_k": 1.0,
+    "same_type_ratio": {
+      "Movie": 10
+    },
+    "query_genres": [
+      "international movies",
+      "comedies",
+      "dramas"
+    ]
+  }
+]

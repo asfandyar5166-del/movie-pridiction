@@ -1,0 +1,72 @@
+[
+  {
+    "model": "Logistic Regression",
+    "cv_f1_mean": 1.0,
+    "cv_f1_std": 0.0,
+    "val_accuracy": 1.0,
+    "val_f1_weighted": 1.0,
+    "test_accuracy": 1.0,
+    "test_f1_weighted": 1.0,
+    "train_time_seconds": 0.607
+  },
+  {
+    "model": "Decision Tree",
+    "cv_f1_mean": 1.0,
+    "cv_f1_std": 0.0,
+    "val_accuracy": 1.0,
+    "val_f1_weighted": 1.0,
+    "test_accuracy": 1.0,
+    "test_f1_weighted": 1.0,
+    "train_time_seconds": 0.125
+  },
+  {
+    "model": "Random Forest",
+    "cv_f1_mean": 1.0,
+    "cv_f1_std": 0.0,
+    "val_accuracy": 1.0,
+    "val_f1_weighted": 1.0,
+    "test_accuracy": 1.0,
+    "test_f1_weighted": 1.0,
+    "train_time_seconds": 5.446
+  },
+  {
+    "model": "Gradient Boosting",
+    "cv_f1_mean": 1.0,
+    "cv_f1_std": 0.0,
+    "val_accuracy": 1.0,
+    "val_f1_weighted": 1.0,
+    "test_accuracy": 1.0,
+    "test_f1_weighted": 1.0,
+    "train_time_seconds": 6.692
+  },
+  {
+    "model": "XGBoost",
+    "cv_f1_mean": 0.9998374600968699,
+    "cv_f1_std": 0.00032507980626017563,
+    "val_accuracy": 1.0,
+    "val_f1_weighted": 1.0,
+    "test_accuracy": 1.0,
+    "test_f1_weighted": 1.0,
+    "train_time_seconds": 3.125
+  },
+  {
+    "model": "LightGBM",
+    "cv_f1_mean": 1.0,
+    "cv_f1_std": 0.0,
+    "val_accuracy": 1.0,
+    "val_f1_weighted": 1.0,
+    "test_accuracy": 1.0,
+    "test_f1_weighted": 1.0,
+    "train_time_seconds": 1.009
+  },
+  {
+    "model": "SVM",
+    "cv_f1_mean": 0.9897226233038623,
+    "cv_f1_std": 0.003604925954868974,
+    "val_accuracy": 0.9988623435722411,
+    "val_f1_weighted": 0.9988617359253434,
+    "test_accuracy": 0.9943117178612059,
+    "test_f1_weighted": 0.9943025671768606,
+    "train_time_seconds": 12.389
+  }
+]

@@ -1,0 +1,110 @@
+{
+  "top_genres": {
+    "International Movies": 2752,
+    "Dramas": 2424,
+    "Comedies": 1673,
+    "International TV Shows": 1348,
+    "Documentaries": 869,
+    "Action & Adventure": 859,
+    "TV Dramas": 761,
+    "Independent Movies": 755,
+    "Children & Family Movies": 641,
+    "Romantic Movies": 616,
+    "Thrillers": 576,
+    "TV Comedies": 573,
+    "Crime TV Shows": 469,
+    "Kids' TV": 448,
+    "Docuseries": 394
+  },
+  "rating_distribution": {
+    "TV-MA": 3205,
+    "TV-14": 2155,
+    "TV-PG": 861,
+    "R": 798,
+    "PG-13": 490,
+    "TV-Y7": 333,
+    "TV-Y": 306,
+    "PG": 287,
+    "TV-G": 220,
+    "NR": 79,
+    "G": 41,
+    "TV-Y7-FV": 6,
+    "NC-17": 3,
+    "UR": 3
+  },
+  "release_trends": {
+    "min_year": 1925,
+    "max_year": 2021,
+    "peak_year": 2018,
+    "peak_count": 1144,
+    "avg_per_year": 118.7
+  },
+  "top_countries": {
+    "United States": 3240,
+    "India": 1056,
+    "United Kingdom": 638,
+    "Pakistan": 420,
+    "Unknown": 287,
+    "Canada": 271,
+    "Japan": 259,
+    "South Korea": 214,
+    "France": 213,
+    "Spain": 182,
+    "Mexico": 138,
+    "Egypt": 123,
+    "Australia": 114,
+    "Turkey": 112,
+    "Nigeria": 105
+  },
+  "top_directors": {
+    "Rajiv Chilaka": 23,
+    "Jan Suter": 21,
+    "Alastair Fothergill": 19,
+    "Ra\u00fal Campos": 19,
+    "Suhas Kadav": 16,
+    "Marcus Raboy": 16,
+    "Jay Karas": 15,
+    "Cathy Garcia-Molina": 13,
+    "Youssef Chahine": 12,
+    "Martin Scorsese": 12,
+    "Jay Chapman": 12,
+    "Mark Thornton": 11,
+    "Todd Kauffman": 11,
+    "Steven Spielberg": 11,
+    "Don Michael Paul": 10
+  },
+  "movie_vs_tv_ratio": {
+    "movie_pct": 69.7,
+    "tv_pct": 30.3
+  },
+  "maturity_trends": {
+    "Adults": 54.13513513513514,
+    "Kids/Family": 12.243243243243244,
+    "Other": 1.1081081081081081,
+    "Teens/Young Adults": 51.25675675675676
+  },
+  "executive_summary": {
+    "total_titles": 8787,
+    "unique_genres": 42,
+    "unique_countries": 86,
+    "total_directors": 4527,
+    "content_mix": {
+      "Movie": 0.6969386593831797,
+      "TV Show": 0.30306134061682033
+    },
+    "most_common_rating": "TV-MA",
+    "most_common_genre": "Dramas",
+    "top_producing_country": "United States",
+    "avg_movie_duration": 99.6,
+    "avg_tv_seasons": 1.8,
+    "year_range": "1925-2021"
+  },
+  "business_recommendations": [
+    "Focus on Dramas content - it has the highest volume on the platform.",
+    "Movies dominate (70% of catalog). Consider increasing TV Show investments to balance content library.",
+    "'Adults' content is most prevalent. Ensure content acquisition targets this demographic.",
+    "International expansion opportunity: India is a strong content producer outside the US.",
+    "Recent trend: 49% of new content is TV Shows, indicating a shift toward TV series production.",
+    "7% of titles have multiple directors. Collaborative productions are common."
+  ]
+}

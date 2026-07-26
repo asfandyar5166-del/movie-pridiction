@@ -1,0 +1,82 @@
+{
+  "Cluster_0": {
+    "size": 500,
+    "pct": 5.7,
+    "top_genres": {
+      "Action & Adventure": 149,
+      "Comedies": 96,
+      "Dramas": 88
+    },
+    "top_countries": {
+      "United States": 254,
+      "India": 99,
+      "Hong Kong": 32
+    },
+    "avg_release_year": 1986.3,
+    "type_mix": {
+      "Movie": 488,
+      "TV Show": 12
+    },
+    "avg_duration_min": 117.8
+  },
+  "Cluster_1": {
+    "size": 2435,
+    "pct": 27.7,
+    "top_genres": {
+      "International TV Shows": 703,
+      "Crime TV Shows": 371,
+      "Kids' TV": 335
+    },
+    "top_countries": {
+      "United States": 772,
+      "Pakistan": 345,
+      "United Kingdom": 218
+    },
+    "avg_release_year": 2017.2,
+    "type_mix": {
+      "TV Show": 2407,
+      "Movie": 28
+    },
+    "avg_duration_min": 32.0
+  },
+  "Cluster_2": {
+    "size": 3353,
+    "pct": 38.2,
+    "top_genres": {
+      "Dramas": 914,
+      "Comedies": 712,
+      "Action & Adventure": 456
+    },
+    "top_countries": {
+      "United States": 1287,
+      "India": 450,
+      "Unknown": 201
+    },
+    "avg_release_year": 2015.9,
+    "type_mix": {
+      "Movie": 3315,
+      "TV Show": 38
+    },
+    "avg_duration_min": 99.6
+  },
+  "Cluster_3": {
+    "size": 2499,
+    "pct": 28.4,
+    "top_genres": {
+      "Dramas": 596,
+      "Documentaries": 437,
+      "Comedies": 401
+    },
+    "top_countries": {
+      "United States": 927,
+      "India": 429,
+      "United Kingdom": 197
+    },
+    "avg_release_year": 2014.5,
+    "type_mix": {
+      "Movie": 2293,
+      "TV Show": 206
+    },
+    "avg_duration_min": 96.4
+  }
+}

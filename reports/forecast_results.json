@@ -1,0 +1,20 @@
+[
+  {
+    "model": "ARIMA (auto)",
+    "mae": 34.09,
+    "rmse": 43.55,
+    "mape": 20.66
+  },
+  {
+    "model": "ExpSmoothing",
+    "mae": 30.99,
+    "rmse": 39.94,
+    "mape": 19.98
+  },
+  {
+    "model": "Prophet",
+    "mae": 52.67,
+    "rmse": 60.64,
+    "mape": 37.83
+  }
+]
